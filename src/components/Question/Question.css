@@ -1,0 +1,14 @@
+.question {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    max-width: 500px;
+  }
+
+  .question button {
+      width: 100px;
+      margin: 20px auto;
+      font-weight: bold;
+  }
